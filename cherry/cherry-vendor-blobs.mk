@@ -546,6 +546,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/cherry/proprietary/vendor/lib/libdisp-aba.so:system/vendor/lib/libdisp-aba.so \
     vendor/huawei/cherry/proprietary/vendor/lib/libmm-abl-oem.so:system/vendor/lib/libmm-abl-oem.so \
     vendor/huawei/cherry/proprietary/bin/irsc_util:system/bin/irsc_util \
+    vendor/huawei/cherry/proprietary/etc/data/dsi_config.xml:system/etc/data/dsi_config.xml \
+    vendor/huawei/cherry/proprietary/etc/data/netmgr_config.xml:system/etc/data/netmgr_config.xml \
     vendor/huawei/cherry/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
     vendor/huawei/cherry/proprietary/vendor/lib/libdsi_netctrl.so:system/vendor/lib/libdsi_netctrl.so \
     vendor/huawei/cherry/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
@@ -561,6 +563,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/cherry/proprietary/vendor/lib/libqmi_encdec.so:system/vendor/lib/libqmi_encdec.so \
     vendor/huawei/cherry/proprietary/vendor/lib/libqmiservices.so:system/vendor/lib/libqmiservices.so \
     vendor/huawei/cherry/proprietary/vendor/lib/libqmi.so:system/vendor/lib/libqmi.so \
+    vendor/huawei/cherry/proprietary/vendor/lib/libsmemlog.so:system/vendor/lib/libsmemlog.so \
     vendor/huawei/cherry/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/huawei/cherry/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/huawei/cherry/proprietary/bin/radish:system/bin/radish \
