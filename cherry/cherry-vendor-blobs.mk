@@ -576,8 +576,10 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/cherry/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
     vendor/huawei/cherry/proprietary/vendor/lib/libmdmdetect.so:system/vendor/lib/libmdmdetect.so \
     vendor/huawei/cherry/proprietary/vendor/lib/libnetmgr.so:system/vendor/lib/libnetmgr.so \
+    vendor/huawei/cherry/proprietary/vendor/lib/libperipheral_client.so:system/vendor/lib/libperipheral_client.so \
     vendor/huawei/cherry/proprietary/vendor/lib/libril-qc-qmi-1.so:system/vendor/lib/libril-qc-qmi-1.so \
     vendor/huawei/cherry/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
+    vendor/huawei/cherry/proprietary/vendor/lib/libsystem_health_mon.so:system/vendor/lib/libsystem_health_mon.so \
     vendor/huawei/cherry/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
     vendor/huawei/cherry/proprietary/bin/thermal-engine:system/bin/thermal-engine \
     vendor/huawei/cherry/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
