@@ -35,6 +35,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/cherry/proprietary/lib/liboeminfo.so:system/lib/liboeminfo.so \
     vendor/huawei/cherry/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
     vendor/huawei/cherry/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
+    vendor/huawei/cherry/proprietary/lib/libcutilz.so:system/lib/libcutilz.so \
+    vendor/huawei/cherry/proprietary/vendor/lib/libqc-opt.so:system/vendor/lib/libqc-opt.so \
     vendor/huawei/cherry/proprietary/vendor/lib/libjpegdhw.so:system/vendor/lib/libjpegdhw.so \
     vendor/huawei/cherry/proprietary/vendor/lib/libjpegehw.so:system/vendor/lib/libjpegehw.so \
     vendor/huawei/cherry/proprietary/vendor/lib/libmmcamera2_c2d_module.so:system/vendor/lib/libmmcamera2_c2d_module.so \
@@ -598,6 +600,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/cherry/proprietary/etc/firmware/venus.b04:system/etc/firmware/venus.b04 \
     vendor/huawei/cherry/proprietary/etc/firmware/venus.mbn:system/etc/firmware/venus.mbn \
     vendor/huawei/cherry/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt \
+    vendor/huawei/cherry/proprietary/lib/libwcnss_qmi.so:system/lib/libwcnss_qmi.so \
     vendor/huawei/cherry/proprietary/bin/test_diag:system/bin/test_diag \
     vendor/huawei/cherry/proprietary/bin/rmt_oeminfo:system/bin/rmt_oeminfo \
     vendor/huawei/cherry/proprietary/etc/firmware/cherry_gis_fw.img:system/etc/firmware/cherry_gis_fw.img \
