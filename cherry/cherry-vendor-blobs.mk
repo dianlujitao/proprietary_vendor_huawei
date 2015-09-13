@@ -544,7 +544,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/cherry/proprietary/vendor/lib/libOmxQcelp13Dec.so:system/vendor/lib/libOmxQcelp13Dec.so \
     vendor/huawei/cherry/proprietary/vendor/lib/libSHIMDivxDrm.so:system/vendor/lib/libSHIMDivxDrm.so \
     vendor/huawei/cherry/proprietary/bin/msm_irqbalance:system/bin/msm_irqbalance \
-    vendor/huawei/cherry/proprietary/bin/perfd:system/bin/perfd \
+    vendor/huawei/cherry/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/huawei/cherry/proprietary/vendor/lib/libqti-perfd-client.so:system/vendor/lib/libqti-perfd-client.so \
     vendor/huawei/cherry/proprietary/bin/mm-pp-daemon:system/bin/mm-pp-daemon \
     vendor/huawei/cherry/proprietary/vendor/lib/libdisp-aba.so:system/vendor/lib/libdisp-aba.so \
